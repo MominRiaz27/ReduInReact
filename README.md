@@ -1,1 +1,1 @@
-# ReduInReact
+# ReduxInReact
